@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+div span:hover{
+	color:rgb(255, 0, 0);
+}
